@@ -1,4 +1,5 @@
-Automatic Tagging of Code-Mixed Data (English-Hindi Code Mixed Data)
+#Automatic Tagging of Code-Mixed Data (English-Hindi Code Mixed Data)
+
 Word level identification of code mixed data
   This project was made with the aim to tackle to improve processing time of transliterated data, once these worlds are  successfullt tagged we only need	 to access monolingual documents to  process theses	code-mixed  queries.
 What is code mixed data?
